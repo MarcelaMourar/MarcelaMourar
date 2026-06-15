@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi! I'm Marcela Moura :)
 
-<!--
-**MarcelaMourar/MarcelaMourar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Web Developer
 
-Here are some ideas to get you started:
+After graduating in Social Sciences, I realized that my fascination with understanding human behavior and social structures could be channeled into creating digital solutions. This inspired me to start my **career transition into Full-Stack Web Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To turn this passion into technical reality, I dove headfirst into an intensive 10-month bootcamp. This training provided me with a solid foundation to build complete applications, bridging database logic with the final interface the user interacts with.
+
+While I work across the entire development pipeline (end-to-end), my true satisfaction lies in shaping clean, intuitive, and responsive interfaces. I love the fact that through well-structured code and visual care, we can translate complex business rules into a seamless and pleasant experience for the user.
+
+Throughout my transition journey, I have learned and applied various stages and technologies in building projects:
+
+🌐 **Front-end Development** for responsive and dynamic interfaces (with HTML5, CSS3, JavaScript ES6+, and React);
+⚙️ **Back-end Architecture** to handle data and business logic (with Node.js and Express);
+🗄️ **Database Management** for structured storage (with MongoDB);
+🔄 **Version Control & Agility** ensuring clean collaboration and organization (with Git, GitHub, and Scrum methodology).
+
+I always strive to build reliable web systems by combining solid coding practices, modern frameworks, and a keen eye for user needs.
+
+---
+
+### My technologies
+
+HTML5 • CSS3 • JavaScript (ES6+) • React • Node.js • Express • MongoDB • Git • GitHub
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github)](https://skillicons.dev)
