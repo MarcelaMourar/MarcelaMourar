@@ -10,10 +10,10 @@ While I work across the entire development pipeline (end-to-end), my true satisf
 
 Throughout my transition journey, I have learned and applied various stages and technologies in building projects:
 
-🌐 **Front-end Development** for responsive and dynamic interfaces (with HTML5, CSS3, JavaScript ES6+, and React);
-⚙️ **Back-end Architecture** to handle data and business logic (with Node.js and Express);
-🗄️ **Database Management** for structured storage (with MongoDB);
-🔄 **Version Control & Agility** ensuring clean collaboration and organization (with Git, GitHub, and Scrum methodology).
+* 🌐 **Front-end Development** for responsive and dynamic interfaces (with HTML5, CSS3, JavaScript ES6+, and React);
+* ⚙️ **Back-end Architecture** to handle data and business logic (with Node.js and Express);
+* 🗄️ **Database Management** for structured storage (with MongoDB);
+* 🔄 **Version Control & Agility** ensuring clean collaboration and organization (with Git, GitHub, and Scrum methodology).
 
 I always strive to build reliable web systems by combining solid coding practices, modern frameworks, and a keen eye for user needs.
 
