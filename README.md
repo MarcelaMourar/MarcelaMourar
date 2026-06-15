@@ -24,3 +24,13 @@ I always strive to build reliable web systems by combining solid coding practice
 HTML5 • CSS3 • JavaScript (ES6+) • React • Node.js • Express • MongoDB • Git • GitHub
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github)](https://skillicons.dev)
+
+
+---
+
+### 🚀 Featured Projects
+
+* **[Coffee Shop Web Project](https://github.com/MarcelaMourar/web_project_coffeeshop)**: A web interface developed to structure and present a coffee shop platform, focusing on semantic HTML and clean styling layout.
+* **[Around React Project](https://github.com/MarcelaMourar/web_project_around_react)**: A responsive and dynamic web application built with React, creating interactive components and a seamless user experience.
+* **[Full API Web Project](https://github.com/MarcelaMourar/web_project_api_full)**: A backend-focused project built to handle data routing, logic integration, and application management using JavaScript.
+* **[Library Project](https://github.com/MarcelaMourar/web_project_library_pt)**: A web platform focused on library management structures, implementing data layout logic.
